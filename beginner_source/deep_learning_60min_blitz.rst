@@ -15,7 +15,7 @@
 PyTorch는 Python 기반의 과학 컴퓨팅 패키지로 다음 두가지 목적으로 제공됩니다:
 
 -  GPU 및 다른 가속기들의 성능을 사용하기 위한 Numpy 패키지 대체제 제공
--  다양한 신경망(neural networks) 구현에 유용한 자동한 자동 미분(automatic differentiation) 라이브러리 제공
+-  다양한 신경망(neural networks) 구현에 유용한 자동 미분(automatic differentiation) 라이브러리 제공
 
 이 튜토리얼의 목표:
 ~~~~~~~~~~~~~~~~~~~~~~~~
