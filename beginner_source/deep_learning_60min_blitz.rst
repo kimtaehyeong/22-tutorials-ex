@@ -10,7 +10,7 @@
      <iframe width="560" height="315" src="https://www.youtube.com/embed/u7x8RXwLKcA" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
    </div>
 
-파이토치(PyTorch)란 무엇을 위해 사용되나요?
+파이토치란 무엇을 위해 사용되나요?
 ~~~~~~~~~~~~~~~~~~~~~
 PyTorch는 Python 기반의 과학 컴퓨팅 패키지로 다음 두가지 목적으로 제공됩니다:
 
